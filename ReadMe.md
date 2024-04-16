@@ -1,4 +1,4 @@
-# User Management System
+# User Bank System
 
 This Python project implements a simple user management system using object-oriented programming principles and regular expressions for input validation.
 
